@@ -1,0 +1,2 @@
+df_hive_parquet = sqlContext.read.option("mergeSchema", "true").parquet("/user/hive/warehouse/treinamento.db/etl_final_01/PK_DATREF=20181126")
+df_hive_parquet.count()

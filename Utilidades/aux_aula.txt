@@ -1,0 +1,14 @@
+ Download Git
+   https://git-scm.com/downloads
+
+ Repositório - Treinamento
+   https://github.com/brunojardim
+
+Latitude/Longitude
+https://www.latlong.net/
+
+'s3://treinamento-big-data-aws/Dados/ETL/clients.csv')
+
+
+
+

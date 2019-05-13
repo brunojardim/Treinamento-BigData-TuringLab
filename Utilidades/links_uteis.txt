@@ -1,0 +1,22 @@
+################ Acesso a conta AWS #############################
+
+link para acessar AWS
+https://bigdata-treinamento.signin.aws.amazon.com/console
+
+onde n varia de 1 a 17
+
+usuario: aluno.n
+Senha: aluno.n
+
+######################## Cluster EMR ############################
+
+Acesso SSH 
+treinamento@bigdata
+
+
+####################  AWS #################################
+calculadora
+https://calculator.s3.amazonaws.com/index.html
+
+tipos de clusters
+https://aws.amazon.com/pt/ec2/instance-types/

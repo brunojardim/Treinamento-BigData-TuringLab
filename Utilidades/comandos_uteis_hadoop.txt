@@ -1,0 +1,30 @@
+1) Verificar espaço no ambiente hadoop
+   hdfs dfsadmin -report
+
+2) Verificar processos sendo executados e gerenciados pelo YARN
+   yarn application -list
+
+3) Criando diretório via sistema HDFS
+   hdfs dfsadmin -safemode leave
+   hdfs dfs -mkdir /home/hduser/mydata/
+
+4) Listar todos Diretórios no hadoop
+   hadoop fs -ls -R / | grep "^d"
+
+5) Listar diretorios desconsiderando aplicações
+   hdfs dfs -ls hdfs:/
+   
+6) Listar subdiretórios
+   hdfs dfs -ls /<caminho/desejado>
+
+7) Derrubando(Kill) processos em execução
+   yarn application -kill <id_processo>
+
+8) copiando arquivo do git para local (hadoop)
+   wget <https://github.com/brunojardim/caminho/ate/pasta/ou/arquivo.algumacoisa>
+
+9) copiando arquilo local(hadoop) para HDFS 
+   hdfs dfs -put  /home/hadoop/arquivo.parquet  /datalake
+
+10) Acesso SSH (Linux, Unix e Mac OS X)
+https://docs.aws.amazon.com/pt_br/emr/latest/ManagementGuide/emr-connect-master-node-ssh.html
