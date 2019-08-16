@@ -1,0 +1,10 @@
+Usuários:
+
+turing01
+turing02
+turing03
+.
+.
+.turing50
+
+Senha: labturing
