@@ -1,0 +1,15 @@
+1) Faça download de PuTTY.exe para seu computador de:
+   http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+2) Inicie o PuTTY.
+3) Na lista Categoria, clique em Sessão.
+4) No campo Nome de host, digite hadoop@ec2-34-239-140-237.compute-1.amazonaws.com
+5) Na lista Categoria, expanda Conexão > SSH, e clique em Autenticar.
+6) Para autenticação no arquivo de chave privada, 
+   clique em Procurar e selecione o arquivo de chave privada 
+   (TuringSSH_Treinamento.ppk) usado para ativar o cluster.
+7) Clique em Abrir.
+8) Clique em Sim para descartar o alerta de segurança.
+
+
+Chave: TuringSSH_Treinamento.ppk
+Senha: labturing
