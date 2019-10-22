@@ -1,0 +1,37 @@
+#####################  AWS  ##############################
+
+Conta AWS:
+https://podschool.signin.aws.amazon.com/console
+
+Usuario:
+treinamento.aluno
+
+Senha:
+
+
+#####################  LabTuring  #########################
+
+Usuário:
+turing01, turing02, turing03, turing04, ... até turing50
+
+Senha:
+labturing
+
+Senha Conexão SSH (PuTTY):
+QA9|y5332|F+
+
+#################### Conteúdo Git #########################
+
+Link de Acesso:
+https://github.com/brunojardim/Treinamento-BigData-TuringLab
+
+################### Dados #################################
+
+bucket:
+turing-bkt-treinamentos-etl
+
+ETL Exemplo:
+Exemplo/
+
+Desafio:
+CreditoImobiliario/
